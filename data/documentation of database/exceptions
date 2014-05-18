@@ -1,0 +1,18 @@
+these are list of exception in noun
+
+First row stores the one of the vibhakti(possible input) eg: देवः
+second row stores the possible row,column combination eg: in देवः 1 means only one combination 11
+                                                          in देवौ  2 means two combination 12 22
+third row store is of varible size it stores row,col combination eg;  12 22 in देवौ
+
+and at last: the root word is stored eg:देव  which will be checked in root_words database
+
+
+
+देवः 1 11 देव
+देवौ 2 12 22 देव
+देवाः 1 13 देव
+
+11- means 1 and 1 first row first col
+12- means 1 and 2 first row second col
+

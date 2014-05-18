@@ -1,0 +1,10 @@
+these are collection of verbs database
+first row stores the word that can be found after proxy1.cpp's rule(if elses) (stripped word from rules) eg:  अट
+second row stores the pure root word 
+third row stores english meaning
+
+अट अट् roam
+आट अट् roam
+अत अत् go
+आत अत् go
+अर्च अर्च् worshi

@@ -1,0 +1,29 @@
+these are connector avyayas
+
+First row stores avyaya eg: अधः
+second row stores its type: 2
+third row store its meaning: 3
+
+in indeclined struct
+
+typedef struct{
+char value[50];
+int type;
+char meaning[20];
+}indeclined;
+
+these three will be stored in structs
+
+type: 8 and 9 are same just put in different category for future aspects
+8:  connect two simple sentences right where it encounters;
+9:  same as 9 but 9 are usually comes with pair eg: यदा and तदा , when and then
+11:  
+अपिच 8 and also
+अतः 8 therefore
+अथापि 8 hence
+यत्र 9 where_there
+तत्र 9 there
+यदा 9 when
+तदा 9 then
+चेद् 11 provided,if
+चेत् 11 provided,if

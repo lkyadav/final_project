@@ -1,0 +1,12 @@
+these are list of root words of nouns
+
+First row stores root word or the word that can be found after using rules database(stripped word from rules) eg: देव 
+second row stores sex,(1->masculine,2->feminine,3->neuter,4->N/A not applied)
+third row stores whether its a (5->noun or 6->pronoun).
+fourth row stores pure root word
+fifth row store english meaning
+
+
+देव 1 5 देव god
+देवा 1 5 देव god
+देवे 1 5 देव god

@@ -1,0 +1,42 @@
+these are collection of avyayas
+
+First row stores avyaya eg: अधः
+second row stores its type: 2
+third row store its meaning: 3
+
+in indeclined struct
+
+typedef struct{
+char value[50];
+int type;
+char meaning[20];
+}indeclined;
+
+these three will be stored in structs
+
+type     
+2:      comes with row 2 vibhakti in noun
+3:      comes with row 3 vibhakti in noun
+4:
+5:
+6:
+7:
+10:    these are questions
+12:    or ,connects different object
+13:    and ,connects diffrent object
+14:    adverbs comes with verb
+
+
+अधः 2 below,under
+समम् 3 at_the_same_time_with
+अलम् 4 enough,sufficient
+सनुतर् 5 away,off,far_from
+साक्षात् 5 with_ones_own_eyes
+सचा 7 near,at_hand
+कदा 10 when
+च 13 and
+वा 12 or
+दृढ 14 fast
+मन्दम् 14 slow
+सरोषम् 14 angrily
+भीतम् 14 timidly

@@ -1,0 +1,22 @@
+these are also part of noun database
+
+first row stores ending suffix that may come
+second row stores the no of possible occurence ,  if 3 > three possible occurence eg:3  three possilbe  32 42 52 
+
+
+भ्याम् 3 32 42 52 
+भ्यः 2 43 53
+नाम् 1 63
+णाम् 1 63
+भिः 1 33
+योः 2 62 72
+वोः 2 62 72 
+णोः 2 62 72
+नोः 2 62 72
+षु 1 73
+सु 1 73
+म् 1 21
+
+
+32- means 3 and 2 third row, second col
+42- means 4 and 2 fourth row, second col

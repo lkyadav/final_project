@@ -1,0 +1,8 @@
+what still i have to do..
+
+A. the output should be in file (lexer and parser both)
+B. output of  parser should be in english and the inputted format both
+C. cha connecting two senteces havent been considered yet.. have to program it
+E. write parser again if you get enough time.. it is very bad
+F. we can use one new technique called noun tagger(all avyaya will be taken care of automatically)
+G. make hundreds of sample runs 
